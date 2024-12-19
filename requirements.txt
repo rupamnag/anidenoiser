@@ -1,5 +1,5 @@
 matplotlib==3.10.0
-numpy==1.26.3
+numpy==1.26.4
 opencv_contrib_python==4.10.0.84
 opencv_python==4.10.0.84
 Pillow>=7.1.0,<11
