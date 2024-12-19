@@ -2,7 +2,6 @@ matplotlib==3.10.0
 numpy==2.2.0
 opencv_contrib_python==4.10.0.84
 opencv_python==4.10.0.84
-Pillow==11.0.0
+Pillow>=7.1.0,<11
 streamlit==1.38.0
 tensorflow==2.17.0
-tensorflow_intel==2.17.0
